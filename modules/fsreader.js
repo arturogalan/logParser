@@ -8,6 +8,7 @@ module.exports = {
 };
 
 
+//Loop over existing files in directory, send content and watch them for updates
 function readAndWatchExistingFiles(config) {
     //Existing files in path
     fs.readdir(config.path, (err, files) => {
@@ -35,7 +36,7 @@ function readAndWatchExistingFiles(config) {
 };
 
 
-
+//Watch for file changes into the directory, if the size changed then read
 function watchFileChanges (filename){
     app.logger.log('watching file: ' + filename);
     fs.watchFile(filename, { persistent: true, interval: 5007 }, function (cstat, pstat) {
@@ -52,10 +53,6 @@ function watchFileChanges (filename){
     });
 }
 
-var sendFile = (filename) => {
-    app.logger.log('debug','send content file: ' + filename);
-}
-
 
 //Watch for new files
 //Timeout to aviod duplicate events
@@ -66,7 +63,7 @@ function readAndWatchDirEvents(config, logger) {
         let filename = config.path + '/' + file;
         if (file && eventType === 'rename' && !fsTimeout[filename]) {
             fsTimeout[filename] = setTimeout(function () { fsTimeout[filename] = null }, 5000);
-            app.logger.log('debug','new file appears' + filename.toString() + ', becaus event = ' + eventType);
+            app.logger.log('debug','new file appears' + filename.toString() + ', because event = ' + eventType);
 
             //File deleted
             fs.stat(filename, (err, stats) => {
@@ -85,3 +82,9 @@ function readAndWatchDirEvents(config, logger) {
     });
 
 };
+
+
+var sendFile = (filename) => {
+    app.logger.log('debug','send content file: ' + filename);
+}
+
