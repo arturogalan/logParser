@@ -4,21 +4,20 @@ module.exports = {
     environment: process.env.NODE_ENV || "local",
     winston: {
         level: "debug",
-        fileName: "fsreader.log"
+        fileName: "logParser.log"
     },
     fsreader: {
         path: "./tmp"
     },
-    logger: [
-        {
-            level: 'debug',
-            timestamp: false,
-            handleExceptions: true,
-            prettyPrint: true,
-            silent: false,
-            json: false,
-            colorize: true
-        }
-    ],
+    fsparser: {
+        regexp: ""
+    },
+    kafka: {
+        connectionString: process.env.KAFKA_URL || 'localhost:9092',
+        retries: {
+            attempts: process.env.KAFKA_ATTEMPTS || 3
+        },
+        topic: process.env.KAFKA_TOPIC || 'templogfiles'
+    }
     
 };

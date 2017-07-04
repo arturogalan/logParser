@@ -1,58 +1,56 @@
-{"level":"info","message":"Initializing app!","timestamp":"2017-06-28T22:19:54.303Z"}
-{"level":"debug","message":"file detected in path","timestamp":"2017-06-28T22:19:58.378Z"}
-{"level":"debug","message":"send content file: ./tmp/newFile.txt","timestamp":"2017-06-28T22:19:58.378Z"}
-{"level":"debug","message":"file detected in path","timestamp":"2017-06-28T22:19:58.379Z"}
-{"level":"debug","message":"send content file: ./tmp/newFile10.txt","timestamp":"2017-06-28T22:19:58.379Z"}
-{"level":"debug","message":"file detected in path","timestamp":"2017-06-28T22:19:58.379Z"}
-{"level":"debug","message":"send content file: ./tmp/newFile100.txt","timestamp":"2017-06-28T22:19:58.379Z"}
-{"level":"debug","message":"file detected in path","timestamp":"2017-06-28T22:19:58.379Z"}
-{"level":"debug","message":"send content file: ./tmp/newFile1001.txt","timestamp":"2017-06-28T22:19:58.379Z"}
-{"level":"debug","message":"file detected in path","timestamp":"2017-06-28T22:19:58.379Z"}
-{"level":"debug","message":"send content file: ./tmp/newFile100122.txt","timestamp":"2017-06-28T22:19:58.379Z"}
-{"level":"debug","message":"file detected in path","timestamp":"2017-06-28T22:19:58.380Z"}
-{"level":"debug","message":"send content file: ./tmp/newFile10012222.txt","timestamp":"2017-06-28T22:19:58.380Z"}
-{"level":"debug","message":"file detected in path","timestamp":"2017-06-28T22:19:58.380Z"}
-{"level":"debug","message":"send content file: ./tmp/newFile100122222222.txt","timestamp":"2017-06-28T22:19:58.380Z"}
-{"level":"debug","message":"file detected in path","timestamp":"2017-06-28T22:19:58.380Z"}
-{"level":"debug","message":"send content file: ./tmp/newFile2.txt","timestamp":"2017-06-28T22:19:58.380Z"}
-{"level":"debug","message":"file detected in path","timestamp":"2017-06-28T22:19:58.380Z"}
-{"level":"debug","message":"send content file: ./tmp/newFile3.txt","timestamp":"2017-06-28T22:19:58.380Z"}
-{"level":"debug","message":"file detected in path","timestamp":"2017-06-28T22:19:58.380Z"}
-{"level":"debug","message":"send content file: ./tmp/newFile4.txt","timestamp":"2017-06-28T22:19:58.380Z"}
-{"level":"debug","message":"file detected in path","timestamp":"2017-06-28T22:19:58.380Z"}
-{"level":"debug","message":"send content file: ./tmp/newFile5.txt","timestamp":"2017-06-28T22:19:58.380Z"}
-{"level":"debug","message":"file detected in path","timestamp":"2017-06-28T22:19:58.380Z"}
-{"level":"debug","message":"send content file: ./tmp/newFile6.txt","timestamp":"2017-06-28T22:19:58.380Z"}
-{"level":"debug","message":"file detected in path","timestamp":"2017-06-28T22:19:58.381Z"}
-{"level":"debug","message":"send content file: ./tmp/newFile8.txt","timestamp":"2017-06-28T22:19:58.381Z"}
-{"level":"debug","message":"file detected in path","timestamp":"2017-06-28T22:19:58.381Z"}
-{"level":"debug","message":"send content file: ./tmp/newFile9.txt","timestamp":"2017-06-28T22:19:58.381Z"}
-{"level":"info","message":"Initializing app!","timestamp":"2017-06-28T22:22:05.028Z"}
-{"level":"debug","message":"file detected in path","timestamp":"2017-06-28T22:22:05.570Z"}
-{"level":"debug","message":"send content file: ./tmp/newFile.txt","timestamp":"2017-06-28T22:22:05.570Z"}
-{"level":"debug","message":"file detected in path","timestamp":"2017-06-28T22:22:05.571Z"}
-{"level":"debug","message":"send content file: ./tmp/newFile10.txt","timestamp":"2017-06-28T22:22:05.571Z"}
-{"level":"debug","message":"file detected in path","timestamp":"2017-06-28T22:22:05.571Z"}
-{"level":"debug","message":"send content file: ./tmp/newFile100.txt","timestamp":"2017-06-28T22:22:05.571Z"}
-{"level":"debug","message":"file detected in path","timestamp":"2017-06-28T22:22:05.571Z"}
-{"level":"debug","message":"send content file: ./tmp/newFile1001.txt","timestamp":"2017-06-28T22:22:05.571Z"}
-{"level":"debug","message":"file detected in path","timestamp":"2017-06-28T22:22:05.571Z"}
-{"level":"debug","message":"send content file: ./tmp/newFile100122.txt","timestamp":"2017-06-28T22:22:05.571Z"}
-{"level":"debug","message":"file detected in path","timestamp":"2017-06-28T22:22:05.571Z"}
-{"level":"debug","message":"send content file: ./tmp/newFile10012222.txt","timestamp":"2017-06-28T22:22:05.571Z"}
-{"level":"debug","message":"file detected in path","timestamp":"2017-06-28T22:22:05.571Z"}
-{"level":"debug","message":"send content file: ./tmp/newFile100122222222.txt","timestamp":"2017-06-28T22:22:05.571Z"}
-{"level":"debug","message":"file detected in path","timestamp":"2017-06-28T22:22:05.572Z"}
-{"level":"debug","message":"send content file: ./tmp/newFile2.txt","timestamp":"2017-06-28T22:22:05.572Z"}
-{"level":"debug","message":"file detected in path","timestamp":"2017-06-28T22:22:05.572Z"}
-{"level":"debug","message":"send content file: ./tmp/newFile3.txt","timestamp":"2017-06-28T22:22:05.572Z"}
-{"level":"debug","message":"file detected in path","timestamp":"2017-06-28T22:22:05.572Z"}
-{"level":"debug","message":"send content file: ./tmp/newFile4.txt","timestamp":"2017-06-28T22:22:05.572Z"}
-{"level":"debug","message":"file detected in path","timestamp":"2017-06-28T22:22:05.572Z"}
-{"level":"debug","message":"send content file: ./tmp/newFile5.txt","timestamp":"2017-06-28T22:22:05.572Z"}
-{"level":"debug","message":"file detected in path","timestamp":"2017-06-28T22:22:05.572Z"}
-{"level":"debug","message":"send content file: ./tmp/newFile6.txt","timestamp":"2017-06-28T22:22:05.572Z"}
-{"level":"debug","message":"file detected in path","timestamp":"2017-06-28T22:22:05.572Z"}
-{"level":"debug","message":"send content file: ./tmp/newFile8.txt","timestamp":"2017-06-28T22:22:05.572Z"}
-{"level":"debug","message":"file detected in path","timestamp":"2017-06-28T22:22:05.573Z"}
-{"level":"debug","message":"send content file: ./tmp/newFile9.txt","timestamp":"2017-06-28T22:22:05.573Z"}
+{"level":"info","message":"Initializing app!","timestamp":"2017-06-28T23:01:54.022Z"}
+{"level":"info","message":"Initializing app!","timestamp":"2017-07-04T13:43:55.949Z"}
+{"level":"debug","message":"file detected in path","timestamp":"2017-07-04T13:43:55.958Z"}
+{"level":"debug","message":"line sended to kafka: new line","timestamp":"2017-07-04T13:43:56.065Z"}
+{"level":"debug","message":"line sended to kafka: new line","timestamp":"2017-07-04T13:43:56.065Z"}
+{"level":"debug","message":"line sended to kafka: new line","timestamp":"2017-07-04T13:43:56.066Z"}
+{"level":"debug","message":"line sended to kafka: new line","timestamp":"2017-07-04T13:43:56.066Z"}
+{"level":"debug","message":"line sended to kafka: new line","timestamp":"2017-07-04T13:43:56.066Z"}
+{"level":"debug","message":"line sended to kafka: new line","timestamp":"2017-07-04T13:43:56.066Z"}
+{"level":"debug","message":"line sended to kafka: new line","timestamp":"2017-07-04T13:43:56.066Z"}
+{"level":"debug","message":"line sended to kafka: new file","timestamp":"2017-07-04T13:43:56.066Z"}
+{"level":"debug","message":"line sended to kafka: new file","timestamp":"2017-07-04T13:43:56.066Z"}
+{"level":"debug","message":"line sended to kafka: new file","timestamp":"2017-07-04T13:43:56.066Z"}
+{"level":"debug","message":"line sended to kafka: new file","timestamp":"2017-07-04T13:43:56.066Z"}
+{"level":"debug","message":"line sended to kafka: new file","timestamp":"2017-07-04T13:43:56.067Z"}
+{"level":"debug","message":"line sended to kafka: new file","timestamp":"2017-07-04T13:43:56.067Z"}
+{"level":"debug","message":"line sended to kafka: new file","timestamp":"2017-07-04T13:43:56.067Z"}
+{"level":"debug","message":"line sended to kafka: new file","timestamp":"2017-07-04T13:43:56.070Z"}
+{"level":"debug","message":"line sended to kafka: new file","timestamp":"2017-07-04T13:43:56.070Z"}
+{"level":"debug","message":"line sended to kafka: new file","timestamp":"2017-07-04T13:43:56.070Z"}
+{"level":"debug","message":"line sended to kafka: new file","timestamp":"2017-07-04T13:43:56.070Z"}
+{"level":"debug","message":"line sended to kafka: new file","timestamp":"2017-07-04T13:43:56.070Z"}
+{"level":"debug","message":"line sended to kafka: new file","timestamp":"2017-07-04T13:43:56.070Z"}
+{"level":"debug","message":"line sended to kafka: new file","timestamp":"2017-07-04T13:43:56.070Z"}
+{"level":"debug","message":"line sended to kafka: new file","timestamp":"2017-07-04T13:43:56.070Z"}
+{"level":"debug","message":"line sended to kafka: new file","timestamp":"2017-07-04T13:43:56.070Z"}
+{"level":"debug","message":"line sended to kafka: new file","timestamp":"2017-07-04T13:43:56.070Z"}
+{"level":"debug","message":"line sended to kafka: new file","timestamp":"2017-07-04T13:43:56.071Z"}
+{"level":"debug","message":"line sended to kafka: new file","timestamp":"2017-07-04T13:43:56.071Z"}
+{"level":"debug","message":"line sended to kafka: new file","timestamp":"2017-07-04T13:43:56.071Z"}
+{"level":"debug","message":"line sended to kafka: new file","timestamp":"2017-07-04T13:43:56.071Z"}
+{"level":"debug","message":"line sended to kafka: new file","timestamp":"2017-07-04T13:43:56.071Z"}
+{"level":"debug","message":"line sended to kafka: new file","timestamp":"2017-07-04T13:43:56.071Z"}
+{"level":"debug","message":"line sended to kafka: new file","timestamp":"2017-07-04T13:43:56.071Z"}
+{"level":"debug","message":"line sended to kafka: new file","timestamp":"2017-07-04T13:43:56.071Z"}
+{"level":"debug","message":"line sended to kafka: new file","timestamp":"2017-07-04T13:43:56.071Z"}
+{"level":"debug","message":"line sended to kafka: new file","timestamp":"2017-07-04T13:43:56.071Z"}
+{"level":"debug","message":"line sended to kafka: new file","timestamp":"2017-07-04T13:43:56.071Z"}
+{"level":"debug","message":"line sended to kafka: new file last one","timestamp":"2017-07-04T13:43:56.071Z"}
+{"level":"debug","message":"line sended to kafka: AGB line","timestamp":"2017-07-04T13:43:56.071Z"}
+{"level":"debug","message":"line sended to kafka: AGB line","timestamp":"2017-07-04T13:43:56.071Z"}
+{"level":"debug","message":"line sended to kafka: AGB line","timestamp":"2017-07-04T13:43:56.071Z"}
+{"level":"debug","message":"line sended to kafka: 1366815793 quark garak","timestamp":"2017-07-04T13:43:56.071Z"}
+{"level":"debug","message":"line sended to kafka: 1366815793 quark garak","timestamp":"2017-07-04T13:43:56.072Z"}
+{"level":"debug","message":"line sended to kafka: 1366815793 quark garak","timestamp":"2017-07-04T13:43:56.072Z"}
+{"level":"debug","message":"line sended to kafka: 1366815793 quark garak","timestamp":"2017-07-04T13:43:56.072Z"}
+{"level":"debug","message":"line sended to kafka: 1366815793 quark garak","timestamp":"2017-07-04T13:43:56.072Z"}
+{"level":"debug","message":"line sended to kafka: 1366815793 quark garak","timestamp":"2017-07-04T13:43:56.072Z"}
+{"level":"debug","message":"line sended to kafka: 1366815794 quark garak","timestamp":"2017-07-04T13:43:56.072Z"}
+{"level":"debug","message":"line sended to kafka: 1366815795 quark garak","timestamp":"2017-07-04T13:43:56.072Z"}
+{"level":"debug","message":"line sended to kafka: 1366815796 quark garak","timestamp":"2017-07-04T13:43:56.072Z"}
+{"level":"debug","message":"line sended to kafka: 1366815798 quark garak","timestamp":"2017-07-04T13:43:56.072Z"}
+{"level":"debug","message":"line sended to kafka: 1499024957 quark garak","timestamp":"2017-07-04T13:43:56.072Z"}
+{"level":"debug","message":"line sended to kafka: 1499029649 quark garak","timestamp":"2017-07-04T13:43:56.072Z"}
+{"level":"debug","message":"line sended to kafka: 1499031388 quark garak","timestamp":"2017-07-04T13:43:56.072Z"}
+{"level":"debug","message":"line sended to kafka: 1499031389 brunt garak","timestamp":"2017-07-04T13:43:56.072Z"}
