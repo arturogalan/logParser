@@ -40,4 +40,4 @@ To enter into the kafka machine:
 
 this will connect to kafka topic and allow you to see the events that come into the topic
 
-NOTE: To log into the console change the transport class in modules/logger.js    
+NOTE: To log into the console or in file, change the desired transport class in modules/logger.js    
