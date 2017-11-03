@@ -33,11 +33,11 @@ Start app with:
 
 Advanced:
 To enter into the kafka machine:
-    -'docker ps -a' to list docjer instances, check the CONTAINER ID of the kafka image and execute:
+    -'docker ps -a' to list docker instances, check the CONTAINER ID of the kafka image and execute:
     -'docker exec -i -t CONTAINER_ID /bin/bash'
-    -inside the image execute: 'cd /opt/kafka_2.11-0.10.1.0/' and
+    -inside the image execute: 'cd /opt/kafka_2.11-0.10.1.0/bin' and
     -'./kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic templogfiles --from-beginning'
 
-this will connect to kafka topic and allow you to see the events that come into the topic
+this will connect to kafka topic and allow you to see the events that enter into the topic
 
 NOTE: To log into the console or in file, change the desired transport class in modules/logger.js    
